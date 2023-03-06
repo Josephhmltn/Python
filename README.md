@@ -1,4 +1,4 @@
-# Python
+# Collection of learning materials, courses, and/or projects used for learning python 3.x
 ## [Python for Everybody](https://www.coursera.org/specializations/python?#courses) (py4e)
 * Course 1: Programming for Everybody
     * [Assignments](https://github.com/Josephhmltn/Python/tree/main/py4e/Course%201)
