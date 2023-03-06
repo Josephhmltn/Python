@@ -8,7 +8,7 @@ _Coursera.org program started on 2 March 2023_
     * [Assignments](https://github.com/Josephhmltn/Python/tree/main/py4e/Course%202)
 
 * Course 3: Using Python to Access Web Data - __Currently working through this course__
-    * [Assignments](https://github.com/Josephhmltn/Python/blob/main/py4e/Course%203/Assignment%2011.1.py)
+    * [Assignments](https://github.com/Josephhmltn/Python/blob/main/py4e/Course%203)
 
 * Course 4: Using Databases with Python
     * Assignments - To be completed
