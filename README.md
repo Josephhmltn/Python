@@ -3,5 +3,5 @@
     * Course 1: Programming for Everybody
         *[Assignments]
     
-    *Course 2: Python Data Structures
+    * Course 2: Python Data Structures
         *[Assignments]
