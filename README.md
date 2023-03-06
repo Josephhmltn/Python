@@ -1,6 +1,6 @@
 # Collection of learning materials, courses, and/or projects used for learning python 3.x
 ## [Python for Everybody](https://www.coursera.org/specializations/python?#courses) (py4e)
-_Coursera.org program started on 2 March 2023_
+_Coursera.org program started on 1 March 2023_
 * Course 1: Programming for Everybody
     * [Assignments](https://github.com/Josephhmltn/Python/tree/main/py4e/Course%201)
     
