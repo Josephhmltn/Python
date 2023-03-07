@@ -20,6 +20,7 @@ ctx.verify_mode = ssl.CERT_NONE
 
 while True:
     #Prompt for location
+    #Location used: Madras university
     address = input('Enter location: ')
     if len(address) < 1: 
         break
